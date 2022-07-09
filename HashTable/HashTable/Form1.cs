@@ -32,12 +32,30 @@ namespace HashTable
             gridControl1.DataSource = phoneBook;            
             gridView1.Columns[0].Caption = "Name";
             gridView1.Columns[1].Caption = "Number";
+            
 
         }
+
+
 
         private void txtContactName_EditValueChanged(object sender, EventArgs e)
         {           
             gridControl1.DataSource = phoneBook.Where(x => x.Key.ToLower().Contains(txtContactName.Text.ToLower())).ToList();
+        }
+
+        private void btnAddNew_Click(object sender, EventArgs e)
+        {
+            if (phoneBook.ContainsKey(txtNewContactName.Text))
+            {
+                MessageBox.Show("This Contact already exist");
+                txtContactName.Text = txtNewContactName.Text;
+            }
+            else
+            {               
+                phoneBook.Add(txtNewContactName.Text, Convert.ToInt64(txtNewContactNumber.Text));                
+                gridControl1.DataSource = phoneBook;
+                //MessageBox.Show("Contact added");
+            }
         }
     }
 }
