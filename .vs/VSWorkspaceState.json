@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Algorithms",
+    "\\Algorithms\\Algorithms"
   ],
-  "SelectedNode": "\\D:\\MyGit Projects",
+  "SelectedNode": "\\Algorithms\\Algorithms\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

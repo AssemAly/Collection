@@ -110,6 +110,19 @@ static int simpleSearch(int[] a, int searchNo)
     return 0;
 }
 
+static void countDownRecursion(int number)
+{
+    Console.Write(number + ",");
+    if (number <= 0)
+    {
+        Console.Write("\b \b"); 
+    }
+    else
+    {        
+        printUsingRecursion(number - 1);
+    }
+}
+
 Console.WriteLine("Binary search algo:");
 int result = binarySearch(arr, 1000);
 Console.WriteLine("Result index = " + result + "\n==================================================");
@@ -117,3 +130,7 @@ Console.WriteLine("Result index = " + result + "\n==============================
 Console.WriteLine("Simple search algo:");
 int result2 = simpleSearch(arr, 1000);
 Console.WriteLine("Result index = " + result2 + "\n==================================================");
+
+Console.WriteLine("Recursion algo:");
+countDownRecursion(10);
+Console.WriteLine("\n==================================================");
