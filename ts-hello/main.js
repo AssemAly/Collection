@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Point_1 = require("./Point");
+var p = new Point_1.point(90, 82);
+p.x = 1000;
+p.draw();
+var like_component_1 = require("./like.component");
+var component = new like_component_1.Likes(10, true);
+component.getLikeCounts();
+console.log("LikeCount: ".concat(component.LikeCount, ", isSelected: ").concat(component.isSelected));

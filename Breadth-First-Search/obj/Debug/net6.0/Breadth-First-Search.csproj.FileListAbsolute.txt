@@ -1,0 +1,15 @@
+D:\MyGit Projects\Breadth-First-Search\bin\Debug\net6.0\Breadth-First-Search.exe
+D:\MyGit Projects\Breadth-First-Search\bin\Debug\net6.0\Breadth-First-Search.deps.json
+D:\MyGit Projects\Breadth-First-Search\bin\Debug\net6.0\Breadth-First-Search.runtimeconfig.json
+D:\MyGit Projects\Breadth-First-Search\bin\Debug\net6.0\Breadth-First-Search.dll
+D:\MyGit Projects\Breadth-First-Search\bin\Debug\net6.0\Breadth-First-Search.pdb
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\Breadth-First-Search.csproj.AssemblyReference.cache
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\Breadth-First-Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\Breadth-First-Search.AssemblyInfoInputs.cache
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\Breadth-First-Search.AssemblyInfo.cs
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\Breadth-First-Search.csproj.CoreCompileInputs.cache
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\Breadth-First-Search.dll
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\refint\Breadth-First-Search.dll
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\Breadth-First-Search.pdb
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\Breadth-First-Search.genruntimeconfig.cache
+D:\MyGit Projects\Breadth-First-Search\obj\Debug\net6.0\ref\Breadth-First-Search.dll
