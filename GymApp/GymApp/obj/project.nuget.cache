@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFszZaJRM/5wbdoM48qHY9KUlUhrnsEkqHrkmGY2JGNiWkq0KhF2DNxXzP/rdFSbgbU1B8ZdtDn15LFqsjpkrg==",
+  "success": true,
+  "projectFilePath": "D:\\MyGit Projects\\GymApp\\GymApp\\GymApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\engas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\engas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\engas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\engas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\engas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\engas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
